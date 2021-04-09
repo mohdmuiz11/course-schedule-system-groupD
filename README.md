@@ -16,7 +16,7 @@ Asyraf Azman | 1917565
 
 NAME | TASK
 ------------ | -------------
-Mohammad Mu'izzuddin | ACcepting the data "POST" to project2.
+Mohammad Mu'izzuddin | Accepting the data "POST" to project2.
 Airil Afiq | Creating navigation bar and button for saving
 Ahmad Thaqif | Create table
 Asyraf Azman | Changing UI after user click save
