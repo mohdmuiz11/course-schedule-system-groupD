@@ -17,6 +17,7 @@ NAME | TASK
 ------------ | -------------
 Mohammad Mu'izzuddin | ACcepting the data "POST" to project2.
 Airil Afiq | Creating navigation bar and button for saving
+isi | isi
 
 
 ## Description:
