@@ -22,4 +22,4 @@ Ahmad Thaqif | Create table
 Asyraf Azman | Changing UI after user click save
 
 ## Description:
-Course schedule
+Our task for this case study is called Course Schedule. We need to create a table for students to fill in their subejct.
