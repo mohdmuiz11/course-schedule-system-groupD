@@ -8,7 +8,7 @@ Course Schedule System for Group D
 NAME | MATRIC NO
 ------------ | -------------
 Mohammad Mu'izzuddin | 1918855
-isi | isi
+Airil Afiq  | 1919241
 
 ## Our tasks
 
